@@ -9,8 +9,7 @@ Installation:
 
 
 ##Português:##
-Adivinhe Qual é o animal
-Jogo de adivinhar qual é o animal utilizando Java com Swing e o conceito de árvores binárias.
+Jogo de adivinhar o animal utilizando Java com Swing e o conceito de árvores binárias.
 
 Instalação:
 >1. Crie um projeto Java na sua IDE favorita (netbeans, eclipse, etc).
