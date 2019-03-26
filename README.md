@@ -1,5 +1,5 @@
 ##English:##
-Animal Guess Game / 20 Questions - Java Swing Algorithm using concept of binary trees.
+Animal Guess Game / 20 Questions - Java Swing Algorithm using binary trees concept.
 
 Installation:
 
